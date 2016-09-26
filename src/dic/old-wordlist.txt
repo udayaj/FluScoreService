@@ -1,0 +1,140 @@
+h1n1	Influenza_A_virus_subtype_H1N1	0.9655
+h2n2	Influenza_A_virus_subtype_H2N2	0.9655
+h3n2	Influenza_A_virus_subtype_H3N2	0.9655
+h3n8	Influenza_A_virus_subtype_H3N8	0.9655
+h7n9	Influenza_A_virus_subtype_H7N9	0.9655
+h5n1	Influenza_A_virus_subtype_H5N1	0.9655
+asian influenza	Asian_flu	0.9655
+asian influenza	NA	0.9655
+asian flu	NA	0.9655
+asiatic flu	NA	0.9655
+asiatic influenza	NA	0.9655
+swine flu	Swine_influenza	0.9655
+swine influenza	NA	0.9655
+avian flu	Avian_influenza	0.9655
+avian influenza	NA	0.9655
+bird flu	NA	0.9655
+bird influenza	NA	0.9655
+influenza strain	NA	1.0
+flu strain	NA	1.0
+strain	Strain_(biology)	0.3
+influenza	Influenza	1.0
+grippe	NA	1.0
+flu	NA	1.0
+influenza like illness	Influenza-like_illness	1.0
+ili	NA	1.0
+contagion	NA	0.5
+contagious disease	Contagious_disease	0.5
+contagious	NA	0.5
+respiratory disease	Respiratory_disease	0.96
+respiratory disorder	NA	0.96
+respiratory distress	Respiratory_failure	0.9231
+respiratory illness	NA	0.96
+respiratory	Respiratory_system	0.1905
+disease	Disease	0.3
+pathogen	Pathogen	0.2
+germ	NA	0.2
+immune system	Immune_system	0.1905
+immunity	Immunity_(medical)	0.6
+incubation period	Incubation_period	0.3
+infect	Infection	0.7826
+mutate	Mutation	0.2857
+strain	Strain_(biology)	0.3
+virulent	Virulence	0.381
+viral syndrome	Viral_disease	0.75
+viral disease	NA	0.75
+Viral infection	NA	0.75
+virus infection	NA	0.75
+virus	Virus	0.2
+epidemic	Epidemic	0.2857
+pandemic	Pandemic	0.2727
+dehydration	Dehydration	0.6087
+fever	Fever	0.2727
+dry cough	Cough	0.2727
+mild cough	NA	0.2727
+cough	NA	0.2727
+fatigue	Fatigue_(medical)	0.5
+headache	Headache	0.25
+myalgia	Myalgia	0.2609
+malaise	Malaise	0.5714
+runny nose	Rhinorrhea	0.2727
+sore throat	Sore_throat	0.8462
+throat irritation	Throat_irritation	0.8462
+throat pain	Pharyngitis	0.8462
+throat congestion	NA	0.8148
+throat obstruction	NA	0.8148
+nasal congestion	Nasal_congestion	0.8148
+nasal obstruction	NA	0.8148
+body ache	NA	0.2609
+dead	Death	0.2857
+died	NA	0.2857
+death	NA	0.2857
+pass away	Pass_away	0.2857
+mortal	NA	0.2857
+mortality	NA	0.2875
+lethal	Lethality	0.4
+lethality	NA	0.4
+chills	Chills	0.2727
+common cold	Common_cold	0.9231
+cold	NA	0.9231
+febrile	NA	0.2727
+abdominal pain	Abdominal_pain	0.25
+stomach ache	NA	0.25
+chest pain	Chest_pain	0.2609
+neck pain	Neck_pain	0.2609
+pain in muscle	NA	0.2609
+muscle pain	NA	0.2609
+muscle ache	NA	0.2609
+aching muscle	NA	0.2609
+pain in joint	Arthralgia	0.2609
+joint pain	NA	0.2609
+joint ache	NA	0.2609
+body pain	NA	0.2609
+runny nose	Rhinorrhea	0.2727
+neck stiffness	Meningism	0.2727
+yellow sputum	Sputum	0.25
+sputum	NA	0.25
+copd	Chronic_obstructive_pulmonary_disease	0.8889
+lung problem	Lung	0.1739
+bronchial pneumonia	Bronchopneumonia	0.8889
+pneumonia	Pneumonia	0.9231
+rale	Crackles	0.2727
+shortness of breath	Dyspnea	0.2727
+diarrhea	Diarrhea	0.2727
+nausea	Nausea	0.2727
+vomiting	Vomiting	0.2727
+wheeze	Wheeze	0.1905
+rhonchi	Rhonchi	0.2727
+anorexia	Anorexia_(symptom)	0.6087
+arthralgias	NA	0.2609
+cervical lymphadenoma	Lymphoma	0.7857
+conjunctivitis	Conjunctivitis	0.2609
+cyanosis	Cyanosis	0.2727
+dyspnea	NA	0.2727
+hemoptysis	Hemoptysis	0.2727
+hoarseness	Dysphonia	0.3810
+pain on eye movement	NA	0.4762
+pain on eye	NA	0.4762
+eyestrain	NA	0.4762
+eye strain	NA	0.4762
+eye fatigue	NA	0.4762
+coryza	Rhinitis	0.2609
+rhinitis	NA	0.2609
+asthenia	Weakness	0.72
+symptoms	Symptom	0.2857
+vaccine	Vaccine	0.1905
+vaccination	NA	0.1905
+medicines	Pharmaceutical_drug	0.2
+medication	NA	0.2
+prescription	Medical_prescription	0.3158
+drugs	Drug	0.2105
+antibiotic	Antibiotics	0.1818
+antiviral	Antiviral_drug	0.1905
+hospital	Hospital	0.1739
+hospitalization	NA	0.24
+medical examination	Physical_examination	0.25
+physical examination	NA	0.25
+doctor visit	NA	0.25
+doctor	Physician	0.1739
+treatment	Therapy	0.24
+quarantine	Quarantine	0.2727

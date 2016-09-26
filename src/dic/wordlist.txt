@@ -1,0 +1,80 @@
+h1n1	Influenza_A_virus_subtype_H1N1	0.9655
+h2n2	Influenza_A_virus_subtype_H2N2	0.9655
+h3n2	Influenza_A_virus_subtype_H3N2	0.9655
+h3n8	Influenza_A_virus_subtype_H3N8	0.9655
+h7n9	Influenza_A_virus_subtype_H7N9	0.9655
+h5n1	Influenza_A_virus_subtype_H5N1	0.9655
+asian influenza	Asian_flu	0.9655
+asian influenza	NA	0.9655
+asian flu	NA	0.9655
+asiatic flu	NA	0.9655
+asiatic influenza	NA	0.9655
+swine flu	Swine_influenza	0.9655
+swine influenza	NA	0.9655
+avian flu	Avian_influenza	0.9655
+avian influenza	NA	0.9655
+bird flu	NA	0.9655
+bird influenza	NA	0.9655
+influenza strain	NA	1.0
+flu strain	NA	1.0
+influenza	Influenza	1.0
+flu	NA	1.0
+influenza like illness	Influenza-like_illness	1.0
+respiratory disease	Respiratory_disease	0.96
+respiratory disorder	NA	0.96
+respiratory distress	Respiratory_failure	0.9231
+respiratory illness	NA	0.96
+viral syndrome	Viral_disease	0.75
+viral disease	NA	0.75
+Viral infection	NA	0.75
+virus infection	NA	0.75
+virus	Virus	0.2
+fever	Fever	0.2727
+dry cough	Cough	0.2727
+mild cough	NA	0.2727
+cough	Cough	0.2727
+fatigue	Fatigue_(medical)	0.5
+headache	Headache	0.25
+head ache	Headache	0.25
+myalgia	Myalgia	0.2609
+malaise	Malaise	0.5714
+runny nose	Rhinorrhea	0.2727
+sore throat	Sore_throat	0.8462
+throat irritation	Throat_irritation	0.8462
+throat pain	Pharyngitis	0.8462
+throat congestion	NA	0.8148
+throat obstruction	NA	0.8148
+nasal congestion	Nasal_congestion	0.8148
+nasal obstruction	NA	0.8148
+body ache	NA	0.2609
+chill	Chills	0.2727
+cold	Common_cold	0.9231
+febrile	NA	0.2727
+chest pain	Chest_pain	0.2609
+neck pain	Neck_pain	0.2609
+pain in muscle	NA	0.2609
+muscle pain	NA	0.2609
+muscle ache	NA	0.2609
+aching muscle	NA	0.2609
+pain in joint	Arthralgia	0.2609
+joint pain	NA	0.2609
+joint ache	NA	0.2609
+body pain	NA	0.2609
+runny nose	Rhinorrhea	0.2727
+yellow sputum	Sputum	0.25
+sputum	NA	0.25
+copd	Chronic_obstructive_pulmonary_disease	0.8889
+lung problem	Lung	0.1739
+bronchial pneumonia	Bronchopneumonia	0.8889
+pneumonia	Pneumonia	0.9231
+shortness of breath	Dyspnea	0.2727
+wheeze	Wheeze	0.1905
+rhonchi	Rhonchi	0.2727
+anorexia	Anorexia_(symptom)	0.6087
+arthralgias	NA	0.2609
+cyanosis	Cyanosis	0.2727
+dyspnea	NA	0.2727
+hoarseness	Dysphonia	0.3810
+coryza	Rhinitis	0.2609
+rhinitis	NA	0.2609
+asthenia	Weakness	0.72

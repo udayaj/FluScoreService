@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <score-service>
+        <rows-read>5000</rows-read>
+        <list-max>5000</list-max>
+        <blacklist-enabled>true</blacklist-enabled>
+        <tags-search-enabled>true</tags-search-enabled>
+        <combine-scores-enabled>true</combine-scores-enabled>
+        <threshold-score>0.93</threshold-score>
+        <num-of-clients>5</num-of-clients>
+        <client-num>0</client-num>
+        <wordlist-path>*****/FluScoreService/src/dic/wordlist.txt</wordlist-path>
+        <exclude-semantics-path>*******/FluScoreService/src/dic/exclude_semantics.txt</exclude-semantics-path>
+        <blacklist-path>**********/FluScoreService/src/dic/blacklist.txt</blacklist-path>
+    </score-service>
+</configuration>
